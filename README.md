@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelc-13" alt="rafaelc-13" /></a> </p>
 
-- 🔭 I’m currently working torwards **some Web-Development pages with motion design**
+- 🔭 I’m currently working with Python and looking to **master this tool**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Web-Development project on any "end", back-end, front-end with the ultimate goal being full-stack**
+- 👯 I’m trying to do **3-5 Leetcode questions daily**
 
 - 🤝 I’m looking for help with **Building a Award-Winning portfolio**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [send me a mesage on Liked-In, I'd be happy to make more connections and share my resume](send me a mesage on Liked-In, I'd be happy to make more connections and share my resume)
 
-- ⚡ Fun fact **i am also an english teacher and a production engineer graduate**
+- ⚡ Fun fact **I am also an english teacher and a production engineer graduate, and I like surfing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
