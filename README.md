@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Rafael Cavalcanti Damasceno</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">I'm a Software Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelc-13&label=Profile%20views&color=0e75b6&style=plastic" alt="rafaelc-13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelc-13" alt="rafaelc-13" /></a> </p>
 
-- 🔭 I’m currently working with Python and looking to **master this tool**
+- 🔭 I like to develop my projects using mostly **Pyhton** and it's frameworks
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently working on an **AI & ML team**
 
-- 👯 I’m trying to do **3-5 Leetcode questions daily**
+- 👯 I have a bachelor's degree in Production Engineering, so I also bring a Business Intelligence visibility to Systems and Processes. 
 
-- 🤝 I’m looking for help with **Building a Award-Winning portfolio**
+- 🤝 The stack I've worked with is Python | Django | Django REST Framework | Flask | REST | SOAP | NumPy | Pandas | Matplotlib | Plotly | scikit-learn | Selenium | BeautifulSoup | HTTPx | python-docx | docx2 | asyncio | Docker SDK/Web | Bitbucket | Jira | FastAPI.
 
-- 📝 I regularly write on [https://www.linkedin.com/in/rafael-cavalcanti-damasceno-98a428243/](https://www.linkedin.com/in/rafael-cavalcanti-damasceno-98a428243/)
-
-- 💬 Ask me about **Data Structure, Algorythms, Object Oriented Programing, Python or java as they are my base foundations**
+- 📝 I regularly write on [https://www.linkedin.com/in/rafael-cavalcanti-damasceno/](https://www.linkedin.com/in/rafael-cavalcanti-damasceno/)
 
 - 📫 How to reach me: **rafaelc.damasceno13@gmail.com**
 
 - 📄 Know about my experiences [send me a mesage on Liked-In, I'd be happy to make more connections and share my resume](send me a mesage on Liked-In, I'd be happy to make more connections and share my resume)
 
-- ⚡ Fun fact **I am also an english teacher and a production engineer graduate, and I like surfing**
+- ⚡ Fun fact **I am also an english teacher, and I like surfing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-cavalcanti-damasceno-98a428243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-cavalcanti-damasceno-98a428243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-cavalcanti-damasceno-98a428243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-cavalcanti-damasceno/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rafas.englishlab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rafas.englishlab/" height="30" width="40" /></a>
 <a href="https://discord.gg/rafsrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rafsrafe" height="30" width="40" /></a>
 </p>
