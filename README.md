@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently working on an **AI & ML team**
 
-- 👯 I have a bachelor's degree in Production Engineering, so I also bring a Business Intelligence visibility to Systems and Processes. 
+- 👯 I have a bachelor's degree in Production Engineering, so I also bring a Business Intelligence visibility to Systems and Processes.
 
-- 🤝 The stack I've worked with is Python | Django | Django REST Framework | Flask | REST | SOAP | NumPy | Pandas | Matplotlib | Plotly | scikit-learn | Selenium | BeautifulSoup | HTTPx | python-docx | docx2 | asyncio | Docker SDK/Web | Bitbucket | Jira | FastAPI.
+- I hold two postgraduate specializations (lato sensu): one in Information Systems and another in Software Architecture.
+
+- I love DevSecOps, and am commited to building safe codes, thinking beyond features, but guarantees with unit testing and securiting testing.
 
 - 📝 I regularly write on [https://www.linkedin.com/in/rafael-cavalcanti-damasceno/](https://www.linkedin.com/in/rafael-cavalcanti-damasceno/)
 
