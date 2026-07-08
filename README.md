@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **rafaelc.damasceno13@gmail.com**
 
-- 📄 Know about my experiences [send me a mesage on Liked-In, I'd be happy to make more connections and share my resume](send me a mesage on Liked-In, I'd be happy to make more connections and share my resume)
+- 📄 Know about my experiences [send me a mesage on Liked-In, I'd be happy to make more connections and share my resume]
 
 - ⚡ Fun fact **I am also an english teacher, and I like surfing**
 
